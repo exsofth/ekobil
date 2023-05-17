@@ -1,0 +1,13 @@
+{
+    "name": "exsofth/ekobil",
+    "description": "A lightweight PHP microframework for web applications",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcellin Wabo",
+            "email": "marcellin@wabo.work"
+        }
+    ],
+    "require": {}
+}
