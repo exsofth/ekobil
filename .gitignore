@@ -1,0 +1,7 @@
+.env
+vendor/
+logs/
+db/
+data/
+*.zip
+setup.php
